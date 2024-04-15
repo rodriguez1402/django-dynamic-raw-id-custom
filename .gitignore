@@ -1,0 +1,8 @@
+*.pyc
+testapp.db
+geckodriver.log
+coverage_report
+.coverage
+
+# For your custom pyenv/tox
+.python-version
